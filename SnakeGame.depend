@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641319014 source:c:\users\moaza\desktop\snakegame\main.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1639962068 source:c:\users\moaza\desktop\snakegame\untitled1.c
+	"graphics.h"
+
+1641319014 source:f:\snakegame\main.cpp
+	<graphics.h>
+	<climits>
+	<queue>
+
